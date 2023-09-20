@@ -1,10 +1,13 @@
-import Sidebar from '../Sidebar/Sidebar'
-import './index.scss'
+import Sidebar from '../Sidebar'; // Check the import path
+import './Layout.scss';
+import React from 'react';
 
 const Layout = () => {
-    return <> 
-    <Sidebar />
+  return (
+    <>
+      <Sidebar />
     </>
-}
+  );
+};
 
-export default Layout
+export default Layout;

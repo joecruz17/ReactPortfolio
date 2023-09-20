@@ -1,0 +1,19 @@
+/*!***************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/index.scss ***!
+  \***************************************************************************************************************************************************/
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font-family: 300 11px/1.4 "Helvetica Neue", "sans-serif";
+  color: #444;
+  background: #022c43;
+  overflow: hidden;
+  display: block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*# sourceMappingURL=App.82676740225d020cf19552d882372999.js.map*/
